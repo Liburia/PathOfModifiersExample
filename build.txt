@@ -1,0 +1,6 @@
+author = Liburia
+version = 0.1
+displayName = PathOfModifiersExample
+includePDB = true
+languageVersion = 6
+modReferences = PathOfModifiers
